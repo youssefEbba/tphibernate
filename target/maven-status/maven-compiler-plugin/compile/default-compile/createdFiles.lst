@@ -1,0 +1,6 @@
+controleurs\TestsHibernate.class
+modeles\Film.class
+tst\Hello.class
+modeles\Artiste.class
+modeles\Pays.class
+controleurs\Hibernate.class
